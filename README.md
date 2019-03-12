@@ -13,3 +13,20 @@ mysql_query()
 
 mysql_fetch_row()
 以数组的形式返回查询结果
+
+'''php
+<?php
+
+header("Content-type:text/html;charset=utf8");
+
+$id = $_GET['id'];
+
+$host = "localhost";
+$username = "root";
+$password = "";
+$sel_database = "security";
+
+$con = 
+
+?>
+'''
